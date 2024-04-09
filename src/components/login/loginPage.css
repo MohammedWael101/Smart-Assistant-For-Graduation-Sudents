@@ -1,0 +1,56 @@
+body{
+    box-sizing: border-box;
+}
+.sidebar{
+    background-color: #010183;
+    width: 20%;
+    padding-top: 80px;
+    padding-left: 50px;
+    height: 102%
+}
+.main{
+    height: 98vh;
+}
+.navbar-brand{
+    font-size: 20px;
+    padding: 3px;
+}
+.navbar-brand:hover{
+    color: white;
+}
+form{
+    background-color: #dcddff;
+    height: 80vh;
+    width:30%;
+    transform: translate(80%,10%);
+    border-radius: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+}
+.title{
+    text-align: center;
+}
+.logBtn{
+    background-color: #010183;
+    width: 150px;
+    transform: translateX(100%);
+}
+.logBtn:hover{
+    background-color: #010183;
+}
+.register{
+    text-align: center;
+    color: black;
+
+}
+span{
+    color: #010183;
+}
+.goto{
+    text-decoration: none;
+    color: #010183;
+}
+.goto:hover{
+    text-decoration: underline;
+}

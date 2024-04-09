@@ -1,0 +1,87 @@
+body {
+    background-color: #000b6b;
+    box-sizing: border-box;
+}
+.main{
+    position: relative;
+}
+.sidebar {
+    background-color: #dcddff;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.sidebar2 {
+    background-color: #dcddff;
+    margin-left: 60%;
+    width: 20%;
+    height: 977px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+.navbar-brand{
+    color: #000b6b;
+    border-color: #000b6b;
+    margin-left: 70px;
+}
+.container{
+    margin-top: 80px;
+    border-bottom: 1px solid white;
+    width: 70%;
+    cursor: pointer;
+}
+
+.container p{
+    font-size: 30px;
+    font-weight: 500;
+    padding-bottom: 20px;
+    margin-left: 20%;
+
+
+}
+.container2{
+    font-size: 20px;
+    font-weight: 500;
+    margin-left: 20%;
+    margin-top: 100px;
+}
+.img{
+    width: 350px;
+    height: 350px;
+    position: absolute;
+    margin-left: 43%;
+    margin-top: 15%;
+}
+.img1{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    margin-top: 8px;
+    margin-left: -20px;
+
+}
+.img2{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    margin-top: -70px;
+    margin-left: -20px;
+
+}
+.img3{
+    width: 50px;
+    height: 50px;
+    position: absolute;
+
+}
+.name{
+    margin-left: 70px;
+}
+.email{
+    font-size: 12px;
+    margin-left: 70px;
+    margin-top: -16px;
+    color: gray;
+}
+
+
+
